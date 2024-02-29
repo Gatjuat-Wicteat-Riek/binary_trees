@@ -77,7 +77,5 @@ Function Prototypes
 
 
 Done By:
-
-Gatjuat Wicteat Riek
-Email: 
-gatjuatriek@gmail.com
+Name: Gatjuat Wicteat Riek
+Email:gatjuatriek@gmail.com
